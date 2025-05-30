@@ -1,0 +1,5 @@
+langchain
+faiss-cpu
+streamlit
+llama-cpp-python
+sentence-transformers

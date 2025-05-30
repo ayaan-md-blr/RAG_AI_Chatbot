@@ -1,0 +1,78 @@
+{
+    "diary_entries": [
+      {
+        "date": "2024-01-01",
+        "title": "New Year's Lunch with Friends",
+        "description": "Went out for lunch with best friends Aahil and Affan on New Year's Eve.",
+        "expenses": [
+          {
+            "category": "Food",
+            "amount": 4850,
+            "shared_with": ["Aahil", "Affan"],
+            "split_equally": true,
+            "my_share": 1616.67
+          }
+        ],
+        "people_mentioned": ["Aahil", "Affan"],
+        "mood": "Happy"
+      },
+      {
+        "date": "2024-02-01",
+        "title": "Pocket Money Received",
+        "description": "Got monthly pocket money.",
+        "income": {
+          "source": "Pocket Money",
+          "amount": 5000
+        },
+        "mood": "Excited"
+      },
+      {
+        "date": "2024-02-15",
+        "title": "Masala Dosa Breakfast",
+        "description": "Ordered masala dosa for me and my brother.",
+        "expenses": [
+          {
+            "category": "Food",
+            "amount": 425,
+            "shared_with": ["Brother"],
+            "split_equally": false
+          }
+        ],
+        "people_mentioned": ["Brother"],
+        "mood": "Content"
+      },
+      {
+        "date": "2025-01-01",
+        "title": "New Year's Bike Ride",
+        "description": "Celebrated New Year's Day with a bike ride to Ramadevara Betta. Had fun!",
+        "expenses": [
+          {
+            "category": "Transport",
+            "amount": 1500,
+            "purpose": "Petrol"
+          },
+          {
+            "category": "Food",
+            "amount": 250,
+            "purpose": "Snacks"
+          },
+          {
+            "category": "Miscellaneous",
+            "amount": 30,
+            "purpose": "Water bottle"
+          }
+        ],
+        "income": {
+          "source": "Gift from Uncle",
+          "amount": 3000
+        },
+        "people_mentioned": ["Uncle"],
+        "mood": "Joyful"
+      }
+    ],
+    "metadata": {
+      "currency": "INR (Rupees)",
+      "author": "Your Name",
+      "purpose": "Personal diary to track daily events and expenses"
+    }
+  }
