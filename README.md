@@ -1,4 +1,4 @@
-# 🧠 Ask Your Docs — RAG Demo using LangChain and Streamlit
+# RAG Demo using LangChain and Streamlit
 
 This project is a **Retrieval-Augmented Generation (RAG)** based question-answering app that allows you to upload `.json` documents, index them using **HuggingFace embeddings and FAISS**, and then query them using a **locally hosted LLaMA model**.
 
